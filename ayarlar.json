@@ -1,0 +1,75 @@
+{
+"botSettings": {
+    "botToken": "MTA2MTcwMzgxMDI5MDA0NDkzOA.Gaxqrh.d7q0ENAAWzn4sEKR0Ilbw4HM8bVHBrqGIIe6aQ",
+    "botVoiceChannel": "1059907510825386024",
+    "botOwners": ["469159066128613398", "728931818182541392"],
+    "prefix": ".",
+    "setFooter": "Priceless 💙"
+},
+"mongoose": {
+    "mongoPath": "mongodb+srv://renciaxd:Vahap2020@cluster0.hvjhn.mongodb.net/?retryWrites=true&w=majority"
+},
+"guildSettings": {
+    "guildID": "790914432397738015",
+    "guildName": "🌷Priceless🌷",
+    "tag": [""],
+    "invite": "discord.gg/priceless"
+},
+"guildHammer": {
+    "jailHammer": "1059909791893442682",
+    "banHammer": "1061713043739906158",
+    "muteHammer": "1059909791893442682",
+    "vmuteHammer": "1059909791893442682",
+    "auth": "1059909791893442682",
+    "yts": ["728931818182541392","469159066128613398","295133406327603200"]
+},
+"guildLogs": {
+"banLogs": "1061704923177300018",
+"jailLogs": "1059911259719467038",
+"muteLogs": "1059911186109431808",
+"vmuteLogs": "1059911186109431808",
+"welcome": "836126897373052988",
+"otoRoleLogs": "1044556998378799104",
+"susLogs": "1059911259719467038",
+"tagLogs": "1059911259719467038",
+"spotifyChannel": "GEREK YOK BUNA",
+"banLimit" : "1061704923177300018",
+"chat": "836125803363696661"
+},
+
+"guildRoles": {
+    "jailRole": "1059910401342578878",
+    "vmuteRole":"EKLESEDE Bİ SİK DEGİSMEZ",
+    "muteRole": "874004888294674533",
+    "boosterRole": "791592990979653664",
+    "unregister": ["", ""],
+    "sus": "904257011674415145"
+},
+"reg": {
+    "regHammer":"",
+    "erkekRoles": ["", "", ""],
+    "kariRoles": ["", "", ""],
+    "familyRole": ""
+
+},
+"yetkiliRole": {
+    "enAltYetkiliRole": "835586473164144653"
+},
+"emojiler": {
+    "mute": "",
+    "unmute": "",
+    "def": "",
+    "undef": "",
+    "onay": "<a:spankeronay:844186230551347201>",
+    "red": "<a:spankeriptal:844186231612244009>" 
+},
+"yasakliTag": {
+    "yasakliTagRole": "1059910401342578878"
+},
+"ekstraRoles": {
+"vip": "986772729778819142",
+"lovers": "1061706063893770291",
+"muzisyen": "1061572357208158208",
+"sponsor": "859885003827445792"
+}
+}
